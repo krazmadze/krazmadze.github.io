@@ -4,12 +4,10 @@ title: "Talks and Conferences"
 ---
 
 7/11/24
-
 “Meet to MCMPer” in [Ludwig-Maximilians-University (LMU)](https://www.lmu.de/en/) of Munich, [Munich Center for Mathematical Philosophy (MCMP)](https://www.mcmp.philosophie.uni-muenchen.de/index.html) | Munich, Germany
 Talk: [Temporal Logic of a Sequence of Finite Linear Processes](https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/razmadze_20241107/index.html)
 
 31/06/24-7/07/24
-
 [Topology, Algebra and Categories in Logic 2024 (TACL 2024)](https://iiia.csic.es/tacl2024/) | Barcelona, Spain
 Talk: Temporal Logic of a Sequence of Finite Linear Processes
 
