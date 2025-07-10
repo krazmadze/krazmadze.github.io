@@ -2,6 +2,9 @@
 layout: page
 title: "Projects"
 ---
+Principal researcher in grant (SRNSFG-DAAD) "Temporal Logic of a Transitive Tn Structures." 2025
+
+Doctoral Fellow in the University LMU (mcmp), 2025
 
 Principal researcher in grant (SRNSFG-DAAD) "Temporal Logic of a Sequence of Finite Linear Processes." 2024
 
