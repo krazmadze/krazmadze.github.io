@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
   - {title: "Talks and Conferences", file: "Talks and Conferences.md"}
   - {title: "Projects", file: "Projects.md"}
-  - {title: "CV", url: "/Razmadze1", target: "_blank"}
+  - {title: "CV", url: "/Razmadze1.pdf", target: "_blank"}
   - {title: "Contacts", file: "contacts.md"}
 
 
