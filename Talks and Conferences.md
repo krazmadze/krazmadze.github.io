@@ -3,6 +3,14 @@ layout: page
 title: "Talks and Conferences"
 ---
 
+23-27/06/25
+["International Workshop on Topological Methods in Logic VII" (ToLo VII)](https://sites.google.com/view/tolo7/), Tbilisi State University (TSU) | Tbilisi, Georgia
+Talk: [Logic of a Sequence of Finite Linear Processes](https://sites.google.com/view/tolo7/schedule)
+
+10-14/02/25
+Conference of [“TSU Andrea Razmadze Mathematics Institute”](https://rmi.tsu.ge/eng/welcome.htm) | Tbilisi, Georgia
+Talk: [Temporal Logic of a Sequence of Finite Linear Processes](https://rmi.tsu.ge/geo/conf/RMI_program-2025.pdf)
+
 7/11/24
 “Meet to MCMPer” in [Ludwig-Maximilians-University (LMU)](https://www.lmu.de/en/) of Munich, [Munich Center for Mathematical Philosophy (MCMP)](https://www.mcmp.philosophie.uni-muenchen.de/index.html) | Munich, Germany
 Talk: [Temporal Logic of a Sequence of Finite Linear Processes](https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/razmadze_20241107/index.html)
